@@ -2,7 +2,7 @@
 
 ## About
 
-https://18xx.games is a website for playing [18xx](https://boardgamegeek.com/boardgamefamily/19/series-18xx) games. All games are used with permission from their respective designers / publishers. Please file issues [here](https://github.com/tobymao/18xx/issues) and pull requests are most certainly welcome! Most discussion about development happens on the 18xx slack channel.
+https://18xx.games is a website for playing [18xx](https://boardgamegeek.com/boardgamefamily/19/series-18xx) games. All games are used with permission from their respective designers / publishers. Please file issues [here](https://github.com/tobymao/18xx/issues) and pull requests are most certainly welcome! Most discussion about development happens on the 18xx slack channel. Maybe there could be a section speaking of the features and reasons why persons should use/join 18xx games.
 
 ## Contributors
 
